@@ -144,6 +144,9 @@ Open [http://localhost:5173](http://localhost:5173).
 ### 5. Successful Vote
 ![Vote Success](./assets/05-success.png)
 
+### 6. Explorer View
+![Explorer View](./assets/06-image.png)
+
 ---
 
 ## Sample Transaction
