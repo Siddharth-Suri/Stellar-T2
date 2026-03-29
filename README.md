@@ -110,8 +110,8 @@ Open [http://localhost:5173](http://localhost:5173).
 
 ## Deployed Contract
 
-> **Contract Address:** `<填入已部署合约地址>`  
-> Update this after deploying.
+> **Contract Address:** `CB3XLNVIJHJK7BF7UIZQ7QNCF3A7ADFAWZP5WMPHDPX23T5EJUXMT2VM`  
+> View on [Stellar Expert](https://stellar.expert/explorer/testnet/contract/CB3XLNVIJHJK7BF7UIZQ7QNCF3A7ADFAWZP5WMPHDPX23T5EJUXMT2VM)
 
 ---
 
@@ -125,9 +125,22 @@ Open [http://localhost:5173](http://localhost:5173).
 
 ---
 
-## Screenshot
+## Screenshots
 
-> _Add a screenshot of the wallet connect modal here._
+### 1. Connect Wallet
+![Connect Wallet](./assets/01-connect-wallet.png)
+
+### 2. Supported Wallets
+![Wallet Modal](./assets/02-wallet-modal.png)
+
+### 3. Voting Interface
+![Voting Options](./assets/03-voting-options.png)
+
+### 4. Sign Transaction (Freighter)
+![Sign Transaction](./assets/04-sign-transaction.png)
+
+### 5. Successful Vote
+![Vote Success](./assets/05-success.png)
 
 ---
 
