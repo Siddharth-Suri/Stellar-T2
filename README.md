@@ -2,6 +2,8 @@
 
 A decentralised community poll running on **Soroban** smart contracts on the Stellar Testnet. Users connect their Stellar wallet, vote YES or NO on a governance question, and see live results updated every 5 seconds — all on-chain.
 
+🚀 **[Live Demo on Vercel](https://live-poll-t2.vercel.app)**
+
 ---
 
 ## Features
